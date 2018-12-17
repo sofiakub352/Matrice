@@ -2,7 +2,7 @@
         
 ---Jocul Stacks---
 
- Componentele utilizate in realizare acestui proiect sunt:
+ Componentele utilizate in realizarea acestui proiect sunt:
 - Arduino Uno
 - Cablu Arduino USB
 - Matrice de leduri 8x8
@@ -22,7 +22,7 @@
 - cand se ajunge la primul rand al matricei este verificata corectitudinea asezarii pieselor, iar in cazul in care asezarea este gresita,
 se reincepe nivelul
 - daca jucatorul reuseste sa treaca de cel de-al patrulea nivel, castiga jocul
-- pentru a juca din nou, jucatorul trebuie sa apese butonul
+- pentru a juca din nou, trebuie apasat butonul
 - numarul vietilor ramase este afisat pe LCD
 - numarul nivelului este afisat pe matrice la inceperea acestuia
 

@@ -64,7 +64,6 @@ https://drive.google.com/file/d/1N-P-53446kBn94WY90s5X1yWCR0Fc45J/view?usp=shari
 The player starts with 5 hearts, that can be lost in two cases:
 - if the button isn't been pressed until the piece reaches the last column of the matrix
 - if the current level ends and there isn't at least one full column of leds on, that begins from the base
-- daca dupa terminarea nivelului, in urma verificarii, nu exista cel putin o coloana de leduri aprinsa complet, care porneste din baza
 
 Video:
 https://drive.google.com/file/d/1N-P-53446kBn94WY90s5X1yWCR0Fc45J/view?usp=sharing
